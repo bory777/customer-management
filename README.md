@@ -2,6 +2,8 @@
 
 シンプルな顧客管理システム（CRM）アプリケーションのフロントエンド実装です。ログイン機能を備え、顧客の一覧表示・検索・並び替えなどの操作が可能です。
 
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/be3f141f-4008-4923-86e7-26345a741ece" />
+
 ---
 
 ## 目次
