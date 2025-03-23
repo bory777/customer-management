@@ -34,7 +34,7 @@
 ### インストールと起動
 1. リポジトリをクローン  
    ```bash
-   git clone https://github.com/yourusername/simple-crm.git
+   git clone https://github.com/bory777/customer-management.git
    cd simple-crm
    ```
 2. 依存パッケージをインストール  
