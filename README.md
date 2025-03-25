@@ -35,7 +35,7 @@
 1. リポジトリをクローン  
    ```bash
    git clone https://github.com/bory777/customer-management.git
-   cd simple-crm
+   cd customer-management
    ```
 2. 依存パッケージをインストール  
    ```bash
